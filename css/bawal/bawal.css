@@ -1,0 +1,29 @@
+body {
+	background: url(images/bawal/background.jpg);
+}
+
+h3 {
+	background: #875388;
+	width:60%;
+	color: #fff;
+	height: 7%;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 30px;
+
+  border-radius: 15px;
+  font-family: Courier New;
+}
+
+ul {
+	font-family: Courier New;
+	background: #EAC0EB;
+	width:60%;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 30px;
+  border-radius: 15px;
+   font-weight: bold;
+}
